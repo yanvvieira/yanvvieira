@@ -22,7 +22,7 @@
 </p>
 
 ---
-![snake gif](https://github.com/yanvigna2/yanvvieira/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/yanvvieira/yanvvieira/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h2 align="center">📫 Onde me encontrar</h2>
 <p align="center">
